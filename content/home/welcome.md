@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We use integrative genomic and multi-omic approach to study evolution, ecology, and epidemiology of emerging pathogens including influenza virus, coronavirus, arbovirus and antimicrobial resistant bacteria. We also develop state-of-the-art genomic and bioinformatics methods and tools.
